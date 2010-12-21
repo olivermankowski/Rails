@@ -1,5 +1,6 @@
 Edited by Ollie for first app
 http://railstutorial.org/chapters/beginning#top
+Edit 2
 
 == Welcome to Rails
 
